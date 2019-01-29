@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+# Julian Vargas
+# Jan 27, 2019.
+
+# Do not list . and ..
+
+ls -alA
