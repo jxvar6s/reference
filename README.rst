@@ -1,3 +1,3 @@
 Reference.
 
-A personal and a web surfing collection.
+Personal And Web Surfing Collection.
